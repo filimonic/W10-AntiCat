@@ -1,5 +1,6 @@
 # W10-AntiCat
 ## Disable Narrator and Magnifier for Windows 10
+Run CMD.exe under elevated prompt
 
 Take owner of Narrator.exe and Magnify.exe
 
